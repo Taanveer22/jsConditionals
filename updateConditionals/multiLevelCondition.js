@@ -28,7 +28,7 @@ const hasCar = false;
 // }
 
 // situation 4
-// if(salary>= 35000 || height >= 70 || isBCS == false) {
+// if(salary >= 35000 || height >= 70 || isBCS == false) {
 //     console.log('perfect bor');
 // }
 // else{
@@ -44,7 +44,7 @@ const hasCar = false;
 // }
 
 // situation 6
-if ((salary>30000 || hasCar == true) && isBCS == true){
+if ((salary > 30000 || hasCar == true) && isBCS == true){
     console.log('bcs thaklei cholbe');
 }
 else{
